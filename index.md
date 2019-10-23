@@ -37,7 +37,7 @@
   <div class="jumbotron" style="background-color: #BAE0FF;">
     <div class="container">
       <h1>Bootstrap starter template</h1>
-      <p class="lead">Bacon ipsum dolor sit amet tenderloin chuck jowl, drumstick pork loin kevin andouille tri-tip. Turkey biltong sirloin, tongue rump pork belly t-bone tail sausage venison corned beef. Jerky pig shoulder beef, tri-tip turducken kevin ribeye prosciutto spare ribs.</p>
+      <p class="lead">Java Script, C#, Python, C++, MySQL, PHP, Linux and BSB operating systems.</p>
       <a class="btn btn-primary btn-lg btn-block">Big ASS Learn more button</a>
     </div>
   </div>
@@ -46,6 +46,11 @@
 
     <div class="row">
       <div class="col-md-4">
+      <form action="welcome.php" method="post">
+        Name: <input type="text" name="name"><br>
+        E-mail: <input type="text" name="email"><br>
+        <input type="submit">
+      </form>
         <p>Yr umami selfies Carles DIY, pop-up Tonx meggings stumptown freegan street art Vice ethnic. Pickled gastropub lo-fi polaroid, ennui selvage meh Tumblr organic iPhone kale chips narwhal Echo Park. Tonx literally distillery Pitchfork McSweeney's semiotics. Stumptown YOLO fanny pack bespoke, kitsch Carles gastropub vegan. Biodiesel ennui church-key McSweeney's, selvage hoodie Brooklyn 90's lomo. Quinoa photo booth cliche semiotics. Roof party Etsy ethnic, fashion axe mlkshk 8-bit paleo.</p>
       </div>
       <div class="col-md-4">
